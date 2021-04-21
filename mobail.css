@@ -2,26 +2,14 @@
 body {
   font-family: "Raleway", sans-serif;
   overflow-x: hidden;
-}
+Width:100%!
 
-::-webkit-scrollbar {
-  width: 0.5rem;
-  background-color: var(--dark);
-}
-
-::-webkit-scrollbar-thumb {
-  border-radius: 50px;
-  background-color: var(--highlight);
-}
-
-::-moz-selection {
-  color: black;
-  background-color: var(--highlight);
 }
 
 ::selection {
   color: black;
   background-color: var(--highlight);
+
 }
 
 
@@ -478,7 +466,7 @@ header #head .menu{
 .night {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 40%;
   -webkit-transform: rotateZ(45deg);
           transform: rotateZ(45deg);
 }
