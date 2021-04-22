@@ -1,16 +1,14 @@
-
-body {
-  font-family: "Raleway", sans-serif;
-  overflow-x: hidden;
-Width:100%;
-
+*{
+    margin:5px;
+    width:100%;
+    max-width:100%;
 }
 
 
 
 
 
-}
+
 #head{
 	height: 300px;
 }
