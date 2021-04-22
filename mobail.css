@@ -6,12 +6,6 @@ Width:100%!
 
 }
 
-::selection {
-  color: black;
-  background-color: var(--highlight);
-
-}
-
 
 
 
@@ -109,7 +103,7 @@ img {vertical-align: middle;}
 /* Slideshow container */
 
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 100%;
   position: relative;
   margin: auto;
 }
