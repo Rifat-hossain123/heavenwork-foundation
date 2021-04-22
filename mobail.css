@@ -11,6 +11,7 @@
 
 #head{
 	height: 300px;
+Width:100%;
 }
 .logo{
   width: 40%;
@@ -51,6 +52,7 @@
 
 
 .left{
+Width:100%;
 	background-color: black;
 	color: white;
 	text-align: center;
@@ -101,6 +103,7 @@ img {vertical-align: middle;}
 /* Slideshow container */
 
 .slideshow-container {
+width 100%;
   max-width: 100%;
   position: relative;
   margin: auto;
@@ -248,6 +251,7 @@ img {vertical-align: middle;}
 
 
 .service{
+width:100%;
 	float: left;
 	background-color:  gray;
 }
